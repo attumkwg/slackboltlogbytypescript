@@ -7,7 +7,7 @@ https://github.com/phigasui/slack_app_boilerplate
 
 ## 実行コマンド
 
-.env.sampleを.env
+.env.sampleを.envに変更後
 
 ```yarn install --save```
 
