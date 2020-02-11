@@ -2,10 +2,12 @@
 
 Slack Appのログをlog4jsを利用してlogファイルに書き出すサンプルです。
 
-こちらをお借りしています。
+こちらをお借りして作成しています。
 https://github.com/phigasui/slack_app_boilerplate
 
 ## 実行コマンド
+
+.env.sampleを.env
 
 ```yarn install --save```
 
